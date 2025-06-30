@@ -2,7 +2,7 @@
 
 **Team Members:**
 
-- Jamie Nangulu
+- Jamie Khalayi
 - Ephraim Loch Juma
 - Sammy Musangi Kitonga
 
