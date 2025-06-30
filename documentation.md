@@ -2,7 +2,7 @@
 
 - Benjamin Tait
 - Daniel Mangong
-
+- Beldi Kamuha
 
 ---
 
