@@ -1,9 +1,5 @@
 # Group Members
 
-- Solovea Mutei
-- Daniel Mangong
-- Beldi Kamuha
-- Ryan Odhiambo
 - Benjamin Tait
 
 ---
