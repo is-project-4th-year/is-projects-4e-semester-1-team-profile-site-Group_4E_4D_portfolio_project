@@ -1,6 +1,8 @@
 # Group Members
 
 - Benjamin Tait
+- Daniel Mangong
+
 
 ---
 
